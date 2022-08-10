@@ -1,8 +1,6 @@
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=fm74irgqt5jdobxy5r757x3ji)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FFFFFF00&width=435&lines=Bem+vindo+%F0%9F%91%8B%2C+eu+me+chamo+Herverson;Um+apaixonado+por+tecnologia%2C+iniciando+sua+jornada)](https://git.io/typing-svg)
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=250&color=FFFFFF&multiline=true&width=450&height=100&lines=Ola+%F0%9F%91%8B%2C+Eu+me+chamo+Herverson!!!;Um+apaixonado+por+tecnologia%2C;+iniciando+sua+jornada." alt="Typing SVG" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herverson89&label=Profile%20views&color=0e75b6&style=flat" alt="herverson89" /> </p>
 
@@ -43,7 +41,7 @@
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </ a>
+    </a>
 </p>
 
 
@@ -52,3 +50,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=herverson89&&theme=dark&show_icons=true&show_icons=true&locale=en" alt="herverson89"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=herverson89&&theme=dark&show_icons=true" alt="herverson89"/></p>
+
