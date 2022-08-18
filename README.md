@@ -8,9 +8,9 @@
 
 - 📫 Fale comigo em : **herverson.s.a@gmail.com**
 
-- 📄 saiba mais sobre mim em : [linkedin.com/in/herverson-almeida-02202a175 ](linkedin.com/in/herverson-almeida-02202a175)
+- 📄 Saiba mais sobre mim em : [linkedin.com/in/herverson-almeida-02202a175 ](linkedin.com/in/herverson-almeida-02202a175)
 
-- ⚡ curiosidades sobre mima : **Tenho como hobby fotografia, e sou apaixonado por viagens e trilhas.**
+- ⚡ Curiosidades sobre mim : **Tenho como hobby fotografia, e sou apaixonado por viagens e trilhas.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
